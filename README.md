@@ -1,2 +1,19 @@
-# Projeto_Landingpage_Rocketseat
-Landing page feita na semana NLW da Rocketseat, utilizando HTML e CSS. Contendo links, listas e animações.
+# NLW eSports
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto construído no evento Next Level Week da Rocketseat.
+
+[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_Esports_Rocketseat/)
+
+# 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+# 💚 Contato
+
+jonhy.willy.jw71@gmail.com
